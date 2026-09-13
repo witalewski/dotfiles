@@ -6,7 +6,7 @@ Personal macOS dotfiles managed with Git and GNU Stow.
 
 ```sh
 ./install.sh
-stow --target="$HOME" home
+stow -t "$HOME" home
 ```
 
 The `home/` directory mirrors files that should be symlinked into `$HOME`.
