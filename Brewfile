@@ -2,6 +2,7 @@
 brew "pnpm"
 brew "lazygit"
 brew "stow"
+brew "tmux"
 
 # Browsers
 cask "google-chrome"
@@ -18,3 +19,6 @@ cask "karabiner-elements"
 
 # Media Players
 cask "iina"
+
+# Fonts
+cask "font-fira-code"
