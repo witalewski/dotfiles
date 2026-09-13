@@ -11,6 +11,7 @@ cask "google-chrome"
 cask "visual-studio-code"
 cask "ghostty"
 cask "chatgpt"
+brew "anomalyco/tap/opencode", trusted: true
 
 # System Utilities
 cask "rectangle"
