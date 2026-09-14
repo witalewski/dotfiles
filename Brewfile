@@ -13,13 +13,18 @@ cask "ghostty"
 cask "chatgpt"
 brew "anomalyco/tap/opencode", trusted: true
 
-# System Utilities
-cask "rectangle"
-cask "maccy"
-cask "karabiner-elements"
+# Android SDK
+cask "zulu@17"
+cask "android-studio"
 
-# Media Players
-cask "iina"
+# System Utilities
+cask "rectangle"            # window layout
+cask "maccy"                # multi-clipboard
+cask "karabiner-elements"   # keyboard mapping
+
+# Media Players / managers
+cask "iina"         # media player
+cask "calibre"      # ebooks
 
 # Fonts
 cask "font-fira-code"
