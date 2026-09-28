@@ -4,9 +4,10 @@ brew "lazygit"
 brew "stow"
 brew "tmux"
 
-# Browsers and communication
+# Browsers and general tools
 cask "google-chrome"
 cask "slack"
+cask "logseq"
 
 # Development Tools
 cask "visual-studio-code"
