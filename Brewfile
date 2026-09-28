@@ -16,6 +16,7 @@ cask "bitwarden"
 cask "visual-studio-code"
 cask "ghostty"
 cask "chatgpt"
+cask "claude"
 brew "anomalyco/tap/opencode", trusted: true
 
 # Android SDK
