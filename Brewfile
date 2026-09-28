@@ -7,7 +7,7 @@ brew "tmux"
 # Browsers and general tools
 cask "google-chrome"
 cask "slack"
-cask "logseq"
+cask "obsidian"
 
 # Development Tools
 cask "visual-studio-code"
