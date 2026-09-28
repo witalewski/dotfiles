@@ -9,6 +9,9 @@ cask "google-chrome"
 cask "slack"
 cask "obsidian"
 
+# Security and passwords
+cask "bitwarden"
+
 # Development Tools
 cask "visual-studio-code"
 cask "ghostty"
