@@ -16,9 +16,12 @@ cask "bitwarden"
 # Development Tools
 cask "visual-studio-code"
 cask "ghostty"
+
+# AI Tools
 cask "chatgpt"
 cask "claude"
 brew "anomalyco/tap/opencode", trusted: true
+cask "granola"
 
 # Android SDK
 cask "zulu@17"
