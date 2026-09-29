@@ -8,6 +8,7 @@ brew "tmux"
 cask "google-chrome"
 cask "slack"
 cask "obsidian"
+cask "fantastical"
 
 # Security and passwords
 cask "bitwarden"
