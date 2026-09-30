@@ -114,3 +114,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+export PATH=/opt/homebrew/opt/libxslt/bin:$PATH
+export LDFLAGS=-L/opt/homebrew/opt/libpq/lib
+export CPPFLAGS=-I/opt/homebrew/opt/libpq/include
