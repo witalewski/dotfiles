@@ -16,6 +16,19 @@ cask "bitwarden"
 # Development Tools
 cask "visual-studio-code"
 cask "ghostty"
+cask "orbstack"
+
+# Erlang stuff
+brew "autoconf"
+brew "openssl@3"
+brew "wxwidgets"
+brew "libxslt"
+brew "fop"
+
+# For parasol spike
+brew "k6"
+brew "cloc"
+brew "libpq"
 
 # AI Tools
 cask "chatgpt"
