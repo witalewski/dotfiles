@@ -18,6 +18,9 @@ cask "visual-studio-code"
 cask "ghostty"
 cask "orbstack"
 
+# Anima stuff
+cask "clockify"
+
 # Erlang stuff
 brew "autoconf"
 brew "openssl@3"
