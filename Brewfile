@@ -3,6 +3,7 @@ brew "pnpm"
 brew "lazygit"
 brew "stow"
 brew "tmux"
+brew "gh"
 
 # Browsers and general tools
 cask "google-chrome"
