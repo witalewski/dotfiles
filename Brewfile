@@ -22,17 +22,13 @@ cask "orbstack"
 # Anima stuff
 cask "clockify"
 
-# Erlang stuff
-brew "autoconf"
-brew "openssl@3"
-brew "wxwidgets"
-brew "libxslt"
-brew "fop"
-
 # For parasol spike
 brew "k6"
 brew "cloc"
 brew "libpq"
+
+# Development tools
+brew "openssl@3"
 
 # AI Tools
 cask "chatgpt"
