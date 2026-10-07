@@ -39,6 +39,7 @@ cask "chatgpt"
 cask "claude"
 brew "anomalyco/tap/opencode", trusted: true
 cask "granola"
+cask "openwhispr"
 
 # Android SDK
 cask "zulu@17"
