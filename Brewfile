@@ -9,7 +9,6 @@ brew "gh"
 cask "google-chrome"
 cask "slack"
 cask "obsidian"
-cask "busycal"
 cask "transmission"
 
 # Security and passwords
