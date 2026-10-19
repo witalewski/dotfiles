@@ -10,6 +10,7 @@ cask "google-chrome"
 cask "slack"
 cask "obsidian"
 cask "transmission"
+cask "homerow"
 
 # Security and passwords
 cask "bitwarden"
