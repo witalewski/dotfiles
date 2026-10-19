@@ -5,3 +5,13 @@ font-size = 14
 
 window-padding-x = 8
 window-padding-y = 8
+
+# Option acts as Alt/Meta (left only; right Option still types ą, ł, ż…)
+macos-option-as-alt = left
+
+# Mac-style line editing in terminal apps (Claude Code, zsh)
+keybind = alt+left=esc:b
+keybind = alt+right=esc:f
+keybind = cmd+left=text:\x01
+keybind = cmd+right=text:\x05
+keybind = cmd+backspace=text:\x15
