@@ -19,6 +19,7 @@ cask "bitwarden"
 cask "visual-studio-code"
 cask "ghostty"
 cask "orbstack"
+cask "claude-code"
 
 # Anima stuff
 cask "clockify"
