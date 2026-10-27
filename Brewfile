@@ -31,6 +31,8 @@ brew "libpq"
 
 # Development tools
 brew "openssl@3"
+brew "ffmpeg"
+cask "gcloud-cli"
 
 # AI Tools
 cask "chatgpt"
