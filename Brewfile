@@ -19,7 +19,6 @@ cask "bitwarden"
 cask "visual-studio-code"
 cask "ghostty"
 cask "orbstack"
-cask "claude-code"
 
 # Anima stuff
 cask "clockify"
@@ -35,8 +34,10 @@ brew "ffmpeg"
 cask "gcloud-cli"
 
 # AI Tools
-cask "chatgpt"
-cask "claude"
+cask "claude" # desktop
+cask "claude-code" # command-line
+cask "chatgpt" # desktop
+cask "codex" # command-line
 brew "anomalyco/tap/opencode", trusted: true
 cask "granola"
 cask "openwhispr"
